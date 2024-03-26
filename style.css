@@ -51,3 +51,9 @@ button:hover {
     transition: 0.25s;
     background-color: #c1a2fe;
 }
+
+@media only screen and (max-width: 768px){
+    .gameContainer{
+        max-width: 50px;
+    }
+}
